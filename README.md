@@ -26,7 +26,7 @@ To play "Guess the Number," follow these steps:
 As this is a personal learning project, contributions are not actively sought. However, any suggestions or feedback are welcome!
 
 ## Contact
-For any queries or feedback, please contact me at [lvlad27@duck.com].
+For any queries or feedback, please contact me at lvlad27@duck.com.
 
 ---
 
