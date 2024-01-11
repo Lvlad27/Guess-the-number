@@ -22,6 +22,10 @@ To play "Guess the Number," follow these steps:
 2. Navigate to the project directory: `cd Guess-the-number`
 3. Open the index.html file in the browser
 
+## Future Enhancements
+- implement difficulty levels
+- create a mobile responsive design
+
 ## Contributing
 As this is a personal learning project, contributions are not actively sought. However, any suggestions or feedback are welcome!
 
