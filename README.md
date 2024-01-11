@@ -13,7 +13,7 @@
 1. Start the game.
 2. Enter your guess for the number.
 3. Receive hints (higher or lower).
-4. Adjust your guess based on the hints.
+4. Adjust your guess based on the hints and keep track of your score.
 5. Repeat until you guess the number correctly.
 
 ## Installation
