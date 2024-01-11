@@ -1,7 +1,7 @@
 # Guess the Number
 
 Play it here: 
-https://lvlad27.github.io/Portfolio/#guessTheNumber
+https://lvlad27.github.io/Portfolio/#portfolio
 
 ## Overview
 "Guess the Number" is a simple, interactive game developed as a personal project for learning purposes. The game challenges players to guess a randomly generated number within a certain range, providing hints to guide them towards the correct answer.
